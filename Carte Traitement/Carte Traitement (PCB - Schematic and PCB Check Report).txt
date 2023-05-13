@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Friday, May 12, 2023
+Project Path:       Z:\IUT\SAERobot\Carte Traitement\Carte Traitement.prj
+Design Path:        Z:\IUT\SAERobot\Carte Traitement\Carte Traitement.pcb
+Design Title:       
+Created:            05/05/2023 11:42:42
+Last Saved:         12/05/2023 11:28:44
+Editing Time:       285 min
+Units:              mm (precision 1)
+
+
+Checking integrity of Schematic and Pcb designs in project "Carte Traitement"
+=============================================================================
+
+
+End Of Report.
